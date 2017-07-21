@@ -10,6 +10,9 @@ node_modules
 /tools/python_bin_path.sh
 /tools/git/gen
 /pip_test
+data/
+docs/
+examples/
 /_python_build
 *.pyc
 __pycache__
